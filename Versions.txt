@@ -1,5 +1,5 @@
 ﻿Patch: 1$
 Mod Text: Classic 1.0$
 Launcher: 1.0.0.0$
-MOTD-EN: Attention, says Grenka. Until the release of the update 5 days$
-MOTD-RU: Внимание, говорит Grenka. До выхода обновления 5 дней$
+MOTD-EN: Welcome to Contra Classic, join our discord channel$
+MOTD-RU: Добро пожаловать в Contra Classic, присоединяйтесь на наш дискорд канал$
